@@ -1,8 +1,8 @@
-%{"calliope": {:hex, :calliope, "0.2.5"},
+%{"calliope": {:hex, :calliope, "0.2.6"},
   "cowboy": {:hex, :cowboy, "1.0.0"},
   "cowlib": {:hex, :cowlib, "1.0.0"},
   "linguist": {:hex, :linguist, "0.1.2"},
-  "phoenix": {:hex, :phoenix, "0.5.0"},
+  "phoenix": {:git, "git://github.com/suranyami/phoenix.git", "0bd5b313d8a2ff78bcff4bbf2d2ca653c18ac728", []},
   "plug": {:hex, :plug, "0.8.1"},
   "poison": {:hex, :poison, "1.2.0"},
   "ranch": {:hex, :ranch, "1.0.0"}}
